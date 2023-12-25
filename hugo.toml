@@ -1,0 +1,4 @@
+baseURL = 'https://nfginola.github.io/'
+languageCode = 'en-us'
+title = 'Nads Awesome Hugo Site'
+theme = 'PaperMod'
