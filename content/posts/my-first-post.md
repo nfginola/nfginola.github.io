@@ -1,6 +1,6 @@
 ---
 title: 'Open Sesame!'
-date: 2023-12-23T01:54:40+01:00
+date: 2023-12-25
 draft: false
 summary: 'What could the very first blog post be yapping about?'
 ---
