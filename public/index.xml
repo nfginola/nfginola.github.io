@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nads Awesome Hugo Site</title>
-    <link>/home/nfginola/projects/quickstart/public/</link>
-    <description>Recent content on Nads Awesome Hugo Site</description>
+    <title>Fleeting Letters</title>
+    <link>https://nfginola.github.io/</link>
+    <description>Recent content on Fleeting Letters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Dec 2023 01:54:40 +0100</lastBuildDate>
-    <atom:link href="/home/nfginola/projects/quickstart/public/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nfginola.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>/home/nfginola/projects/quickstart/public/posts/my-first-post/</link>
+      <title>Open Sesame!</title>
+      <link>https://nfginola.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 23 Dec 2023 01:54:40 +0100</pubDate>
-      <guid>/home/nfginola/projects/quickstart/public/posts/my-first-post/</guid>
-      <description>Introduction What in tarnaaationnnn!!!
-Someone hug me.
-Editing in real time 8)</description>
+      <guid>https://nfginola.github.io/posts/my-first-post/</guid>
+      <description>What could the very first blog post be yapping about?</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://nfginola.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nfginola.github.io/about/</guid>
+      <description>About Me My name is Nadhif Ginola. I&amp;rsquo;m a Software Engineer with a keen interest in challenges pertaining to real-time rendering, GPUs, and time-critical low-level software.
+I currently work at Arm as a Graphics Software Engineer on Vulkan drivers for current and next-generation Mali GPUs.
+Enthusiastic, open, and versatile, I am always eager to learn new technologies and topics from different domains. This websites serves as a learning log of sorts, for me to refine and document my scribbles, and have some fun while doing so.</description>
+    </item>
+    <item>
+      <title>Cooking in Progress</title>
+      <link>https://nfginola.github.io/projects/in-progress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nfginola.github.io/projects/in-progress/</guid>
+      <description>The intersection between two empty sets..</description>
     </item>
   </channel>
 </rss>

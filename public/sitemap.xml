@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/home/nfginola/projects/quickstart/public/posts/my-first-post/</loc>
+    <loc>https://nfginola.github.io/</loc>
     <lastmod>2023-12-23T01:54:40+01:00</lastmod>
   </url><url>
-    <loc>/home/nfginola/projects/quickstart/public/</loc>
+    <loc>https://nfginola.github.io/posts/my-first-post/</loc>
     <lastmod>2023-12-23T01:54:40+01:00</lastmod>
   </url><url>
-    <loc>/home/nfginola/projects/quickstart/public/posts/</loc>
+    <loc>https://nfginola.github.io/posts/</loc>
     <lastmod>2023-12-23T01:54:40+01:00</lastmod>
   </url><url>
-    <loc>/home/nfginola/projects/quickstart/public/categories/</loc>
+    <loc>https://nfginola.github.io/about/</loc>
   </url><url>
-    <loc>/home/nfginola/projects/quickstart/public/tags/</loc>
+    <loc>https://nfginola.github.io/categories/</loc>
+  </url><url>
+    <loc>https://nfginola.github.io/projects/in-progress/</loc>
+  </url><url>
+    <loc>https://nfginola.github.io/projects/</loc>
+  </url><url>
+    <loc>https://nfginola.github.io/tags/</loc>
   </url>
 </urlset>

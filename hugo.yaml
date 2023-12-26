@@ -1,0 +1,47 @@
+baseURL: https://nfginola.github.io/
+languageCode: en-us
+title: Fleeting Letters
+theme: PaperMod
+enableEmoji: true
+
+menu:
+  main:
+    - identifier: Blog
+      name: Blog
+      url: /posts/
+      weight: 1
+    - identifier: Projects
+      name: Projects
+      url: /projects/
+      weight: 2
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 3
+
+params:
+  ShowToc: false
+  # open by default
+  TocOpen: false
+
+  defaultTheme: dark
+  disableThemeToggle: true
+
+  profileMode:
+    enabled: true
+    title: "Nadhif Ginola"
+    subtitle: "Graphics Software Engineer"
+    imageUrl: "/images/avatar.jpeg" # static implicit
+    imageTitle: "An image"
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+
+  socialIcons:
+      - name: LinkedIn
+        url: "https://linkedin.com/in/nadhif-ginola/"
+      - name: Github
+        url: "https://github.com/nfginola"
+      - name: Twitter
+        url: "https://twitter.com/nfginola"
+
+
